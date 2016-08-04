@@ -1,6 +1,6 @@
 # Hijacking System Calls and Monitoring Processes
 
-### Assignment 1 from CSC369 at the University of Toronto
+#### Assignment from CSC369 at the University of Toronto
 
 Hijack (intercepting) system calls by writing and installing a very basic kernel module to the Linux kernel.
 
